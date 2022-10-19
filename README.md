@@ -1,2 +1,3 @@
 # CETis-83
-Reconocimientos 
+Reconocimiento de primer lugar en la especialidad de soporte y mantenimiento de equipo de computo 
+![Reconocimiento-CETis83](https://github.com/RETBOT/CETis-83/blob/main/reconocimiento%20primer%20lugar.jpg)
